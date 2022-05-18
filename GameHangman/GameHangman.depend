@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1652720896 source:d:\codegame\gamehangman\main.cpp
+	"grap.h"
+
+1652718431 d:\codegame\gamehangman\grap.h
+	<bits/stdc++.h>
+	<conio.h>
+	<windows.h>
+	<thread>
+
+1652718512 source:d:\codegame\gamehangman\grap.cpp
+	"grap.h"
+
